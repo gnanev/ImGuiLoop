@@ -1,0 +1,6 @@
+create build/libImGuiLoop.a
+addlib build/libImGuiLoop.stat.a
+addlib glfw/lib/libglfw3.a
+addlib glew/lib/libGLEW.a
+save
+end
